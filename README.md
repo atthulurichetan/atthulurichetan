@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chetan Kumar 👋
 
-## About Me
+
 I'm a full-stack developer with a passion for building web applications using modern technologies.
 
 ## 🛠️ Skills
